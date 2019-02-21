@@ -7,18 +7,15 @@ body{margin:0;font-family:'Montserrat',"Open Sans",Helvetica,Arial,sans-serif;wi
 }
 
 
-.fullProject:hover {
-	
-}
 .contactUs:hover {
-	box-shadow: 0 3px 20px 18px rgba(126, 234, 192, .3);
+	box-shadow: 0 3px 20px 18px rgba(126, 234, 192, .4);
 	transition: box-shadow 0.3s ease-in-out;
 	cursor: pointer;
 
 }
 
 .fP:hover {
-	box-shadow: 0 3px 20px 8px rgba(65, 210, 186, .9);
+	box-shadow: 0 3px 20px 8px rgba(65, 210, 186, .5);
 	transition: box-shadow 0.3s ease-in-out;
 	cursor: pointer;
 }
